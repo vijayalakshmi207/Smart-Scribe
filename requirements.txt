@@ -2,8 +2,10 @@ Flask
 flask-cors
 PyPDF2
 opencv-python-headless
-face-recognition
+cmake
 dlib
+face-recognition
 numpy
 scipy
 reportlab
+gunicorn
