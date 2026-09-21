@@ -1,0 +1,9 @@
+Flask
+flask-cors
+PyPDF2
+opencv-python-headless
+face-recognition
+dlib
+numpy
+scipy
+reportlab
