@@ -7,6 +7,5 @@ Click
 Pillow
 numpy
 scipy
-face-recognition-models
 reportlab
 gunicorn
